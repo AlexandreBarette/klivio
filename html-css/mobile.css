@@ -1,0 +1,159 @@
+@media screen and (max-width: 394px) {
+	* {
+		margin: 0;
+		padding: 0;
+		font-family: 'Montserrat', sans-serif;
+	}
+
+	body {
+		width: 24.5625rem;
+		height: 567.9375rem;
+	}
+
+	/* navbar */
+	.nav-bar .search,
+	.nav-bar .user-buttons,
+	.nav-bar p {
+		display: none;
+	}
+
+	.nav-bar .logo img {
+		margin: 1.5625rem 14.1875rem 1.5rem 1.6875rem;
+	}
+
+	.menu-burger {
+		display: block;
+	}
+
+	/*jumbotron*/
+	.jumbotron {
+		background-image: linear-gradient(to right,rgba(68, 221, 138, 0.7), rgba(21, 183, 226, 0.7)), url('../assets/images/mobile-jumb.jpg');
+		color: #ffffff;
+		background-size: cover;
+		height: 28.125rem;
+		width: 100%;
+		text-transform: uppercase;
+		color: rgba(21, 34, 55, 1);
+		background-position: center;
+	}
+
+	.jumbotron .slogan {
+		width: 22.5rem;
+		height: 117px;
+		padding: 2.75rem 0 1.6875rem 1rem;
+	}
+
+	.jumbotron h1 {
+		font-weight: 800;
+		font-size: 32px;
+		line-height: 100%;
+		letter-spacing: -1.5%;
+		text-align: center;
+		vertical-align: middle;
+		text-transform: uppercase;
+	}
+
+	.jumbotron .slogan2 {
+		width: 22.5rem;
+		height: 4.5rem;
+		padding: 0 0 1.6875rem 1rem;
+	}
+
+	.jumbotron h2 {
+		font-weight: 500;
+		font-style: medium;
+		font-size: 20px;
+		line-height: 100%;
+		letter-spacing: -1.5%;
+		text-align: center;
+		vertical-align: middle;
+		text-transform: uppercase;
+	}
+
+	.jumbotron .slogan3 {
+		padding: 0 0 0 8.1875rem;
+	}
+
+	/*popular*/
+	.pop-container {
+		display: block;
+	}
+
+	.popular h2 {
+		font-weight: 800;
+		font-size: 30px;
+		line-height: 40px;
+		letter-spacing: -1.5%;
+		text-align: center;
+		margin: 1.25rem 0 2.25rem 1.75rem;
+	}
+
+	.pop-form,
+	.recent-form {
+		width: 20.9375rem;
+		height: 5rem;
+	}
+
+	.formation1 {
+		margin: 0 0 2.9375rem 2.8125rem;
+		width: 19.1875rem;
+		height: 22.625rem;
+	}
+	.formation2 {
+		margin: 0 0 2.875rem 2.9375rem;
+		width: 19.0625rem;
+		height: 22.625rem;
+	}
+	.formation3 {
+		margin: 0 0 2.6875rem 2.9375rem;
+		width: 19.0625rem;
+		height: 22.625rem;
+	}
+	.formation4 {
+		margin: 0 0 2.6875rem 3.0625rem;
+		width: 19.0625rem;
+		height: 22.625rem;
+	}
+
+	.see-more {
+		margin: 0 0 2.8125rem 0;
+	}
+
+	/*recent*/
+	.recent-container {
+		display: block;
+	}
+
+	.recent h2 {
+		font-weight: 800;
+		font-size: 30px;
+		line-height: 40px;
+		letter-spacing: -1.5%;
+		text-align: center;
+		margin: 0 0 2.3125rem 1.8125rem;
+		padding-top: 2rem;
+	}
+
+	.recent .formation1 {
+		margin: 0 0 3.375rem 2.75rem;
+		width: 19.1875rem;
+		height: 22.625rem;
+	}
+	.recent .formation2 {
+		margin: 0 0 3.5625rem 2.75rem;
+		width: 19.0625rem;
+		height: 22.625rem;
+	}
+	.recent .formation3 {
+		margin: 0 0 3.5625rem 2.5625rem;
+		width: 19.625rem;
+		height: 22.625rem;
+	}
+	.recent .formation4 {
+		margin: 0 0 4.25rem 2.5625rem;
+		width: 19.0625rem;
+		height: 22.625rem;
+	}
+
+
+}
