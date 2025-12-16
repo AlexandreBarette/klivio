@@ -120,6 +120,12 @@
 	}
 
 	/*recent*/
+
+	.recent {
+		width: 24.5625rem;
+		height: 120.4375rem;
+	}
+	
 	.recent-container {
 		display: block;
 	}
