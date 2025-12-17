@@ -461,6 +461,10 @@ h1 {
 
 /* Advantages section */
 
+.img-advantage-mobile {
+	display: none;
+}
+
 .advantages {
 	background: rgba(245, 245, 245, 1);
 	height: 40.0625rem;
@@ -539,6 +543,10 @@ h1 {
 	padding-bottom: 2.4375rem;
 }
 
+.create h2:nth-child(2) {
+	display: none;
+}
+
 .create-container  {
 	display: flex;
 }
@@ -571,6 +579,10 @@ h1 {
 	height: 30.4375rem;
 	padding-top: 4.4375rem;
 	padding-left: 6.3125rem;
+}
+
+.img-create-mobile {
+	display: none;
 }
 
 .coin-hand {
@@ -620,6 +632,7 @@ h1 {
 	line-height: 28px;
 	letter-spacing: -0.015em;
 	height: 18.4375rem;
+	color: rgba(21, 34, 55, 1);
 }
 
 .img-side {
