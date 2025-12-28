@@ -497,6 +497,7 @@
 		width: 24.5625rem;
 		height: 34.6875rem;
 		background-color: rgba(21, 34, 55, 1);
+		display: block;
 	}
 
 	.top .klivio-logo {
@@ -505,15 +506,51 @@
 		margin: 2.8125rem 4.6875rem;
 	}
 
-	.legal {
+	footer .legal {
 		width: 10.8125rem;
 		height: 8.4375rem;
-		margin: 0;
-		color: black;
+		margin: 0 0 2rem 6.875rem;
+		color: rgb(255, 255, 255);
 	}
 
-	.legal h2 {
-		margin: 0;
+	footer .legal p {
+		font-weight: 400;
+		font-size: 15px;
+		line-height: 24px;
+		letter-spacing: -0.015em;
+		text-align: center;
+	}
+
+	footer .legal h2 {
+		margin: 0 0 1rem 0;
+		width: 10.8125rem;
+		height: 1.5rem;
+		font-weight: 700;
+		font-size: 15px;
+		line-height: 24px;
+		letter-spacing: -0.015em;
+		text-align: center;
+	}
+
+	footer .coordinates {
+		margin: 0 0 0 6.375rem;
+		width: 11.8125rem;
+		height: 9.3125rem;
+	}
+
+	footer .coordinates h2 {
+		margin: 0 0 1.3125rem .5rem;
+		width: 10.8125rem;
+		height: 1.5rem;
+		font-weight: 700;
+		font-size: 15px;
+		line-height: 24px;
+		letter-spacing: -0.015em;
+		text-align: center;
+	}
+		
+	footer .coord-info {
+		margin: 0 0 0 .0625rem;
 	}
 
 	footer .line {
@@ -523,16 +560,15 @@
 	footer .bottom {
 		display: none;
 	}
-	.copyright {
+	footer .copyright {
 		display: none;
 	}
 
-	.ftr-buttons {
+	footer .ftr-buttons {
 		display: none;
 	}
-	.follow p,
-	.follow img {
+	footer.follow p,
+	footer .follow img {
 		display: none;
 	}
-
 }

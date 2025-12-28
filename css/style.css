@@ -425,7 +425,7 @@ h1 {
 }
 
 .opinion2 .rating {
-	margin: .625rem 0 .675rem .125rem ;
+	margin: .625rem 0 .675rem .6875rem ;
 }
 
 .opinion .pp {
@@ -437,6 +437,7 @@ h1 {
 }
 
 .ppp {
+	margin-left: .5625rem;
 	height: 5.625rem;
 	font-weight: 400;
 	font-size: 16px;
@@ -773,10 +774,11 @@ footer h2 {
 }
 
 footer .legal {
-	margin: 102px 65px 16px 298px;
+	margin: 102px 65px 0 288px;
 	color: rgb(255, 255, 255);
 	width: 10.8125rem;
 	height: 8.4375rem;
+
 }
 
 footer p {
@@ -792,6 +794,15 @@ footer .coordinates {
 	color: rgb(255, 255, 255);
 	width: 192px;
 	height: 144px;
+}
+
+.coordinates h2 {
+	width: 10.8125rem;
+	font-weight: 700;
+	font-size: 15px;
+	line-height: 24px;
+	letter-spacing: -0.015em;
+	margin-bottom: 1rem;
 }
 
 footer .coordinates-icon {
@@ -811,7 +822,7 @@ footer .coordinates-icon {
 }
 
 #b {
-	margin-left: 1px;
+	margin-right: 1px;
 }
 
 .coorp {
@@ -861,6 +872,14 @@ footer .follow {
 
 .follow p{
 	margin-right: 24px;
+	width: 6rem;
+	height: 1.5rem;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	letter-spacing: -0.015em;
+	text-align: right;
+	margin-top: .1875rem;
 }
 
 footer .follow-icon {
