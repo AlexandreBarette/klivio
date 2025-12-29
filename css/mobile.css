@@ -181,6 +181,11 @@
 		display: block;
 	}
 
+	.opinion1 img:first-child,
+	.opinion2 img:first-child {
+		display: block;
+	}
+
 	.opinion1 {
 		margin: 0 0 0 1.875rem;
 		width: 21.2781rem;
@@ -234,7 +239,7 @@
 	.opinion2 h3 {
 		width: 21.9488rem;
 		height: 2.25rem;
-		margin: 0 0 0 -0.8862rem;
+		margin: 0 0 .6875rem -0.8862rem;
 		font-weight: 700;
 		font-size: 24px;
 		line-height: 36px;
@@ -266,10 +271,11 @@
 	.advantages h2{
 		width: 21.8125rem;
 		height: 5.8125rem;
-		padding: 1.5625rem 0 1.0625rem 1.375rem;
+		padding: 1.5625rem 0 0 0;
+		margin: 0  0 1.0625rem 1.375rem;
 		font-weight: 900;
 		font-size: 30px;
-		line-height: 36px;
+		line-height: 50px;
 		letter-spacing: -0.015em;
 		text-align: center;
 		text-transform: uppercase;
@@ -317,6 +323,34 @@
 		font-size: 20px;
 		line-height: 28px;
 		letter-spacing: -0.015em;
+	}
+
+	.col2 p {
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 28px;
+		letter-spacing: -0.015em;
+	}
+
+	.col2 p:nth-child(1) {
+		margin-bottom: .125rem;
+	}
+
+	.col2 p:nth-child(2) {
+		margin-bottom: .25rem;
+	}
+
+	.col2 p:nth-child(5) {
+		margin-bottom: .25rem;
+	}
+
+	.col2 .mobile-p {
+		display: block;
+		margin-bottom: .25rem;
+	}
+
+	.col2 .desktop-p {
+		display: none;
 	}
 
 	.img-advantage {
@@ -389,6 +423,19 @@
 		margin-bottom: 14.875rem;
 	}
 
+	.col-text {
+		width: 17rem;
+		height: 22rem;
+		padding: 0;
+	}
+
+	.col-text p {
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 28px;
+		letter-spacing: -0.015em;
+	}
+
 	/*About*/
 	.about {
 		width: 24.5625rem;
@@ -415,6 +462,7 @@
 		text-transform: uppercase;
 	}
 
+	
 	.about-container p{
 		width: 22.125rem;
 		height: 33.1875rem;
@@ -425,6 +473,14 @@
 		letter-spacing: -0.015em;
 	}
 
+	.about-container .abt-desktop-p {
+		display: none;
+	}
+
+	.about-container .abt-mobile-p {
+		display: block;
+	}
+	
 	.img-side {
 		width: 24.5625rem;
 		height: 23.125rem;

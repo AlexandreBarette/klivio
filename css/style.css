@@ -505,6 +505,10 @@ h1 {
 	width: 38.5rem;
 }
 
+.col2 .mobile-p {
+	display: none;
+}
+
 .img-advantage {
 	margin-top: -80px;
 }
@@ -624,6 +628,7 @@ h1 {
 	letter-spacing: -0.015em;
 	text-transform: uppercase;
 	padding-bottom: 2.5625rem;
+	color: #152237;
 }
 
 .about-container p {
@@ -634,6 +639,10 @@ h1 {
 	letter-spacing: -0.015em;
 	height: 18.4375rem;
 	color: rgba(21, 34, 55, 1);
+}
+
+.about-container .abt-mobile-p {
+	display: none;
 }
 
 .img-side {
