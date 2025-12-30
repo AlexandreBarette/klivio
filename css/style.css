@@ -25,7 +25,7 @@ h1 {
 
 .nav-bar p {
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 	margin-left: 10.5rem;
 }
 
@@ -57,7 +57,7 @@ h1 {
 	border-radius: 0.375rem;
 	margin-left: 8.9375rem;
 	border-style: solid;
-	border-width: 1px;
+	border-width: .0625rem;
 }
 
 .search-bar:focus {
@@ -82,7 +82,7 @@ h1 {
 	border-radius: 0.375rem;
 	border: none;
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 	line-height: 100%;
 	letter-spacing: -0.015em;
 	text-align: center;
@@ -97,7 +97,7 @@ h1 {
 	border: none;
 	margin-right: 6.3125rem;
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 	line-height: 100%;
 	letter-spacing: -0.015em;
 	text-align: center;
@@ -151,9 +151,9 @@ h1 {
 	border: none;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 	line-height: 100%;
-	letter-spacing: -1.5%;
+	letter-spacing: -0.015em;
 	text-align: center;
 	vertical-align: middle;
 }
@@ -169,8 +169,8 @@ h1 {
 	margin-top: 1.3125rem;
 	color: rgba(21, 34, 55, 1);
 	font-weight: 700;
-	font-size: 24px;
-	line-height: 36px;
+	font-size: 1.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	margin-bottom: .6875rem;
 }
@@ -202,8 +202,8 @@ h1 {
 .pop-form {
 	margin: 1.875rem 0 0 6.0625rem;
 	font-weight: 800;
-	font-size: 36px;
-	line-height: 72px;
+	font-size: 2.25rem;
+	line-height: 4.5rem;
 	letter-spacing: -0.015em;
 	color: rgba(21, 34, 55, 1);
 }
@@ -255,10 +255,10 @@ h1 {
     color: white;
 	font-weight: 700;
     border: none;
-	border-radius: 93px;
-	box-shadow: 5px 4px 13.2px -1px rgba(0, 0, 0, 0.25);
-	font-size: 20px;
-	line-height: 20px;
+	border-radius: 5.8125rem;
+	box-shadow: .3125rem .25rem .825rem -0.0625rem rgba(0, 0, 0, 0.25);
+	font-size: 1.25rem;
+	line-height: 1.25rem;
 	letter-spacing: -0.015em;
 	display: flex;
 	align-items: center;
@@ -271,8 +271,8 @@ h1 {
 
 .old-price {
 	font-weight: 400;
-	font-size: 10px;
-	line-height: 7px;
+	font-size: .625rem;
+	line-height: .4375rem;
 	letter-spacing: -0.015em;
 	text-decoration: line-through;
 	width: 1.4375rem;
@@ -288,10 +288,9 @@ h1 {
 	font-family: 'Montserrat', sans-serif;
 	background-color: #152237;
 	color: white;
-	margin: 43px 0 51px 0;
-	font-family: Montserrat;
+	margin: 2.6875rem 0 3.1875rem 0;
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 	line-height: 100%;
 	letter-spacing: -0.015em;
 	text-align: center;
@@ -314,8 +313,8 @@ h1 {
 .recent h3 {
 	font-weight: 700;
 	margin-top: 1.3125rem;
-	font-size: 24px;
-	line-height: 36px;
+	font-size: 1.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	margin-bottom: .6875rem;
 }
@@ -327,8 +326,8 @@ h1 {
 .recent-form {
 	margin: 0 0 0 6.0625rem;
 	font-weight: 800;
-	font-size: 36px;
-	line-height: 72px;
+	font-size: 2.25rem;
+	line-height: 4.5rem;
 	letter-spacing: -0.015em;
 }
 
@@ -364,9 +363,9 @@ h1 {
 .recent .see-more {
 	background-color: #ffffff;
 	color: #152237;
-	margin: 43px 0 51px 0;
+	margin: 2.6875rem 0 3.1875rem 0;
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 }
 
 /* Opinion section */
@@ -382,26 +381,26 @@ h1 {
 	height: 2.25rem;
 	color:rgba(21, 34, 55, 1);
 	padding-top: 3.625rem;
-	padding-left: 695px;
-	font-size: 40px;
+	padding-left: 43.4375rem;
+	font-size: 2.5rem;
 	letter-spacing: -0.015em;
 	line-height: 2.25rem;
 	text-transform: uppercase;
 }
 
 .opinion1 {
-	margin-left: 150px;
-	margin-top: 66px;
+	margin-left: 9.375rem;
+	margin-top: 4.125rem;
 	height: 19.125rem;
 	width: 43.0625rem;
 }
 
 .opinion h3 {
-	margin-left: 3px;
+	margin-left: .1875rem;
 	margin-top: .0625rem;
 	font-weight: 700;
-	font-size: 24px;
-	line-height: 36px;
+	font-size: 1.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	width: 42.875rem;
 	height: 2.25rem;
@@ -409,11 +408,11 @@ h1 {
 }
 
 .opinion2 h3 {
-	margin-left: 9px;
+	margin-left: .5625rem;
 	margin-top: .0625rem;
 	font-weight: 700;
-	font-size: 24px;
-	line-height: 36px;
+	font-size: 1.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	width: 42.875rem;
 	height: 2.25rem;
@@ -421,7 +420,7 @@ h1 {
 }
 
 .opinion .rating {
-	margin: 7px 0 .8625rem 0;
+	margin: .4375rem 0 .8625rem 0;
 }
 
 .opinion2 .rating {
@@ -431,8 +430,8 @@ h1 {
 .opinion .pp {
 	height: 5.625rem;
 	font-weight: 400;
-	font-size: 16px;
-	line-height: 30px;
+	font-size: 1rem;
+	line-height: 1.875rem;
 	letter-spacing: -0.015em;
 }
 
@@ -440,8 +439,8 @@ h1 {
 	margin-left: .5625rem;
 	height: 5.625rem;
 	font-weight: 400;
-	font-size: 16px;
-	line-height: 30px;
+	font-size: 1rem;
+	line-height: 1.875rem;
 	letter-spacing: -0.015em;
 }
 
@@ -454,10 +453,10 @@ h1 {
 }
 
 .opinion2 {
-	margin-left: 24px;
-	margin-top: 66px;
+	margin-left: 1.5rem;
+	margin-top: 4.125rem;
 	height: 19.125rem;
-	width: 665px;
+	width: 41.5625rem;
 }
 
 /* Advantages section */
@@ -473,11 +472,11 @@ h1 {
 }
 
 .advantages h2 {
-	padding-top: 79px;
-	padding-left: 98px;
+	padding-top: 4.9375rem;
+	padding-left: 6.125rem;
 	font-weight: 900;
-	font-size: 40px;
-	line-height: 36px;
+	font-size: 2.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	text-transform: uppercase;
 	color: rgba(21, 34, 55, 1);
@@ -485,14 +484,14 @@ h1 {
 
 .advantages-container  {
 	display: flex;
-	margin-top: 43px;
+	margin-top: 2.6875rem;
 }
 
 .col1 {
 	display: flex;
     flex-direction: column;
-    gap: 15px;
-	margin-left: 98px;
+    gap: .9375rem;
+	margin-left: 6.125rem;
 	margin-right: 2.1875rem;
 }
 
@@ -510,13 +509,13 @@ h1 {
 }
 
 .img-advantage {
-	margin-top: -80px;
+	margin-top: -5rem;
 }
 
 .advantages-container p {
 	font-weight: 400;
-	font-size: 24px;
-	line-height: 28px;
+	font-size: 1.5rem;
+	line-height: 1.75rem;
 	letter-spacing: -0.015em;
 }
 
@@ -532,17 +531,17 @@ h1 {
 .create-right {
     display: flex;
     flex-direction: column;
-	padding-top: 3px;
-	padding-left: 82px;
+	padding-top: .1875rem;
+	padding-left: 5.125rem;
 }
 
 .create h2 {
 	width: 42.875rem;
-	padding-top: 79px;
+	padding-top: 4.9375rem;
 	font-weight: 900;
 	color: rgba(21, 34, 55, 1);
-	font-size: 40px;
-	line-height: 36px;
+	font-size: 2.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	text-transform: uppercase;
 	padding-bottom: 2.4375rem;
@@ -574,8 +573,8 @@ h1 {
 
 .create-container p {
 	font-weight: 400;
-	font-size: 24px;
-	line-height: 28px;
+	font-size: 1.5rem;
+	line-height: 1.75rem;
 	letter-spacing: -0.015em;
 }
 
@@ -591,16 +590,16 @@ h1 {
 }
 
 .coin-hand {
-	padding-bottom: 15px;
+	padding-bottom: .9375rem;
 }
 .heart {
-	padding-bottom: 19px;
+	padding-bottom: 1.1875rem;
 }
 .pencil {
-	padding-bottom: 15px;
+	padding-bottom: .9375rem;
 }
 .settings {
-	padding-bottom: 129px;
+	padding-bottom: 8.0625rem;
 }
 
 /* About section */
@@ -613,7 +612,7 @@ h1 {
 
 .about-container {
 	padding-left: 6.4375rem;
-	padding-top: 184px;
+	padding-top: 11.5rem;
 	width: 53.125rem;
 	display: flex;
 	flex-direction: column;
@@ -623,8 +622,8 @@ h1 {
 .about-container h2 {
 	width: 42.875rem;
 	font-weight: 900;
-	font-size: 40px;
-	line-height: 36px;
+	font-size: 2.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	text-transform: uppercase;
 	padding-bottom: 2.5625rem;
@@ -634,8 +633,8 @@ h1 {
 .about-container p {
 	width: 42.875rem;
 	font-weight: 400;
-	font-size: 18px;
-	line-height: 28px;
+	font-size: 1.125rem;
+	line-height: 1.75rem;
 	letter-spacing: -0.015em;
 	height: 18.4375rem;
 	color: rgba(21, 34, 55, 1);
@@ -652,8 +651,8 @@ h1 {
 }
 
 .img-side img {
-	padding: 18.25rem 12.5rem 293px;
-	width: 430px;
+	padding: 18.25rem 12.5rem 18.3125rem;
+	width: 26.875rem;
 	height: 9.6875rem;
 }
 
@@ -668,19 +667,19 @@ h1 {
 	width: auto;
 	height: 2.25rem;
 	color: rgba(21, 34, 55, 1);;
-	padding-top: 60px;
+	padding-top: 3.75rem;
 	margin-left: 40.25rem;
 	font-weight: 900;
-	font-size: 40px;
-	line-height: 36px;
+	font-size: 2.5rem;
+	line-height: 2.25rem;
 	letter-spacing: -0.015em;
 	text-transform: uppercase;
 }
 
 .contact-line {
-	width: 350px;
-    border: 1px solid rgba(68, 221, 138, 1);
-    margin: 39px 41.5625rem auto auto;
+	width: 21.875rem;
+    border: .0625rem solid rgba(68, 221, 138, 1);
+    margin: 2.4375rem 41.5625rem auto auto;
 }
 
 .contact-container {
@@ -720,13 +719,13 @@ h1 {
 }
 
 .contact-container input[type="email"]::placeholder {
-	padding-left: 16.97px;
+	padding-left: 1.0606rem;
     color: rgb(255, 255, 255); 
 }
 
 .contact-container textarea::placeholder {
-	padding-left: 16.75px;
-	padding-top: 15.44px;
+	padding-left: 1.0469rem;
+	padding-top: .965rem;
     color: rgb(255, 255, 255); 
 }
 
@@ -741,7 +740,7 @@ h1 {
 	border: none;
 	color: rgba(21, 34, 55, 1);
 	font-weight: 500;
-	font-size: 15px;
+	font-size: .9375rem;
 	line-height: 100%;
 	letter-spacing: -0.015em;
 	text-align: center;
@@ -770,20 +769,20 @@ footer .top {
 
 footer .klivio-logo {
 	margin: 5.625rem 0 0 6rem;
-	width: 243px;
+	width: 15.1875rem;
 	height: 5.4375rem;
 }
 
 footer h2 {
 	font-weight: 700;
-	font-size: 15px;
-	line-height: 24px;
+	font-size: .9375rem;
+	line-height: 1.5rem;
 	letter-spacing: -0.015em;
 	margin-bottom: 1rem;
 }
 
 footer .legal {
-	margin: 102px 65px 0 288px;
+	margin: 6.375rem 4.0625rem 0 18rem;
 	color: rgb(255, 255, 255);
 	width: 10.8125rem;
 	height: 8.4375rem;
@@ -792,8 +791,8 @@ footer .legal {
 
 footer p {
 	font-weight: 400;
-	font-size: 15px;
-	line-height: 24px;
+	font-size: .9375rem;
+	line-height: 1.5rem;
 	letter-spacing: -0.015em;
 	color: rgb(255, 255, 255);
 }
@@ -801,15 +800,15 @@ footer p {
 footer .coordinates {
 	margin-top: 6.375rem;
 	color: rgb(255, 255, 255);
-	width: 192px;
-	height: 144px;
+	width: 12rem;
+	height: 9rem;
 }
 
 .coordinates h2 {
 	width: 10.8125rem;
 	font-weight: 700;
-	font-size: 15px;
-	line-height: 24px;
+	font-size: .9375rem;
+	line-height: 1.5rem;
 	letter-spacing: -0.015em;
 	margin-bottom: 1rem;
 }
@@ -831,7 +830,7 @@ footer .coordinates-icon {
 }
 
 #b {
-	margin-right: 1px;
+	margin-right: .0625rem;
 }
 
 .coorp {
@@ -852,7 +851,7 @@ footer .iconText {
 
 footer .line {
     background: linear-gradient(to right, rgba(68, 221, 138, 1), rgba(21, 183, 226, 1));
-    height: 2px;
+    height: .125rem;
 	width: 92.625rem;
 	margin-left: 6rem;
 }
@@ -874,18 +873,18 @@ footer .follow {
 }
 
 .follow {
-	margin-left: 884px;
-	margin-top: 38px;
+	margin-left: 53.9375rem;
+	margin-top: 2.375rem;
 	width: 20.0625rem;
 }
 
 .follow p{
-	margin-right: 24px;
-	width: 6rem;
+	margin-right: 1.5rem;
+	width: 6.125rem;
 	height: 1.5rem;
 	font-weight: 400;
-	font-size: 15px;
-	line-height: 24px;
+	font-size: .9375rem;
+	line-height: 1.5rem;
 	letter-spacing: -0.015em;
 	text-align: right;
 	margin-top: .1875rem;
@@ -895,14 +894,14 @@ footer .follow-icon {
 	width: 1.875rem;
 	height: 1.875rem;
 	color: rgb(255, 255, 255);
-	margin-right: 21px;
+	margin-right: 1.3125rem;
 }
 
 footer .follow-icon-last {
 	width: 1.875rem;
 	height: 1.875rem;
 	color: rgb(255, 255, 255);
-	margin-right: 15px;
+	margin-right: .9375rem;
 }
 
 footer .follow img {
