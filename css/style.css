@@ -27,6 +27,12 @@ h1 {
 	font-weight: 500;
 	font-size: .9375rem;
 	margin-left: 10.5rem;
+	white-space: nowrap;
+	letter-spacing: -0.015em;
+	text-align: center;
+	vertical-align: middle;
+	width: 6.875rem;
+	height: 1.125rem;
 }
 
 .logo img {
@@ -73,7 +79,7 @@ h1 {
 .user-buttons {
 	display: flex;
 	gap: 1.1875rem;
-	margin-left: 15.3125rem;
+	margin-left: 13.75rem;
 }
 
 .connexion {
@@ -631,7 +637,7 @@ h1 {
 }
 
 .about-container p {
-	width: 42.875rem;
+	width: 42.6875rem;
 	font-weight: 400;
 	font-size: 1.125rem;
 	line-height: 1.75rem;
